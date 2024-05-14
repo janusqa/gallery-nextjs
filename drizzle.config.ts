@@ -4,7 +4,7 @@ import { env } from "~/env";
 
 export default {
   schema: "./src/server/db/schema.ts",
-  driver: "pg",
+  driver: "aws-data-api",
   dialect: "postgresql",
   dbCredentials: {
     // connectionString: env.POSTGRES_URL,
