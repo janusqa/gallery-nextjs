@@ -80,7 +80,7 @@ export function SimpleUploadButton() {
     onUploadBegin() {
       //   posthog.capture("upload_begin");
       toast(
-        <div className="flex items-center gap-2 text-black">
+        <div className="flex items-center gap-2 text-white">
           <LoadingSpinnerSVG /> <span className="text-lg">Uploading...</span>
         </div>,
         {
