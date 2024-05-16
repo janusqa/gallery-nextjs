@@ -14,6 +14,6 @@
 - [x] Routing/image page (parallel route)
 - [x] Update upload button to be an image 
 - [x] Add shadcn-ui 
+- [x] Analytics (posthog)
 - [ ] Delete button (w/ Server actions)
-- [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
