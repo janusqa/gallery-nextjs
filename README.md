@@ -15,6 +15,6 @@
 - [x] Update upload button to be an image 
 - [x] Add shadcn-ui 
 - [x] Analytics (posthog)
-- [ ] Fix vercel pnpm ignorant issue.  
+- [X] Fix vercel pnpm ignorant issue.  
 - [ ] Delete button (w/ Server actions)
 - [ ] Ratelimiting (upstash)
